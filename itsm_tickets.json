@@ -1,24 +1,5 @@
 [
   {
-    "id": 553,
-    "orderNo": "261105...",
-    "platform": "拼多多",
-    "orderDate": "2026-11-05",
-    "spec": "1500g 礼盒...",
-    "province": "内蒙古...",
-    "issue": "规格小",
-    "issueSub": "",
-    "solution": "部分退款",
-    "payout": 10,
-    "evidenceImg": "",
-    "platformIntervene": "否",
-    "status": "已完成",
-    "remark": "",
-    "afterSaleTime": "2026年11月6日",
-    "createTime": "2026-11-0...",
-    "assignee": "沈先德"
-  },
-  {
     "id": 554,
     "orderNo": "261103...",
     "platform": "拼多多",
