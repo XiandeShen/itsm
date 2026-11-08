@@ -13,7 +13,13 @@
     "evidenceImg": "images/img_1794114990230.json",
     "platformIntervene": "否",
     "status": "处理中",
-    "tracks": [],
+    "tracks": [
+      {
+        "user": "沈先德",
+        "time": "2026-11-08 13:22",
+        "content": "已预约快递"
+      }
+    ],
     "afterSaleTime": "2026-11-08",
     "createTime": "2026-11-08",
     "assignee": "沈先德"
