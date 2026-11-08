@@ -42,8 +42,14 @@
     "payout": 0,
     "evidenceImg": "images/img_1794113536475.json",
     "platformIntervene": "否",
-    "status": "已完成",
-    "remark": "客户反馈黑头占比很大，基本没有不黑的。",
+    "status": "处理中",
+    "tracks": [
+      {
+        "user": "沈先德",
+        "time": "2026-11-08 09:00",
+        "content": "客户反馈黑头占比很大，基本没有不黑的。"
+      }
+    ],
     "afterSaleTime": "2026-11-08",
     "createTime": "2026-11-08",
     "assignee": "沈先德"
