@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "id": 1,
+    "orderNo": "261105-590285381151753",
+    "platform": "拼多多",
+    "orderDate": "2026-11-05",
+    "spec": "1500g 礼盒装,净重3斤90/120+【部分腹籽默认无籽】",
+    "province": "吉林省",
+    "issue": "黑头",
+    "issueSub": "",
+    "solution": "退货退款",
+    "payout": 0,
+    "evidenceImg": "images/img_1794113536475.json",
+    "platformIntervene": "否",
+    "status": "处理中",
+    "remark": "客户反馈黑头占比很大，基本没有不黑的。",
+    "afterSaleTime": "2026-11-08",
+    "createTime": "2026-11-08",
+    "assignee": "沈先德"
+  }
+]
