@@ -12,12 +12,17 @@
     "payout": 0,
     "evidenceImg": "images/img_1794114990230.json",
     "platformIntervene": "否",
-    "status": "处理中",
+    "status": "已完成",
     "tracks": [
       {
         "user": "沈先德",
         "time": "2026-11-08 13:22",
         "content": "已预约快递"
+      },
+      {
+        "user": "沈先德",
+        "time": "2026-11-08 14:12",
+        "content": "已取件审核退款完成"
       }
     ],
     "afterSaleTime": "2026-11-08",
