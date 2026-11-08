@@ -1,24 +1,5 @@
 [
   {
-    "id": 560,
-    "orderNo": "11234",
-    "platform": "拼多多",
-    "orderDate": "2026-11-08",
-    "spec": "",
-    "province": "",
-    "issue": "品质不好",
-    "issueSub": "",
-    "solution": "部分退款",
-    "payout": 0,
-    "evidenceImg": "images/img_1794110978136.json",
-    "platformIntervene": "否",
-    "status": "处理中",
-    "remark": "",
-    "afterSaleTime": "2026年11月8日",
-    "createTime": "2026-11-08",
-    "assignee": "沈先德"
-  },
-  {
     "id": 553,
     "orderNo": "261105...",
     "platform": "拼多多",
